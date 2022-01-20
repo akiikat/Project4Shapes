@@ -1,6 +1,7 @@
 <p><strong># Project4Shapes</strong></p>
 <p>Shapes (Student Project)&nbsp;</p>
 <p><strong>Project Goal:&nbsp;</strong></p>
+<p>-C++s&nbsp;</p>
 <p>-Reinforce OOP fundamentals&nbsp;</p>
 <p>-Better understand Inheritance and Abstraction&nbsp;</p>
 <p><br></p>
