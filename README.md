@@ -4,6 +4,7 @@
 <p>-Written in C++&nbsp;</p>
 <p>-Reinforce OOP fundamentals&nbsp;</p>
 <p>-Better understand Inheritance and Abstraction&nbsp;</p>
+
 <p><br></p>
 <p><strong>Design: </strong></p>
 <p>- Implements a BasicShape class (pure abstract base class)&nbsp;</p>
